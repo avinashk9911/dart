@@ -1,0 +1,3 @@
+In this lecture we solve the essue of error, that was apparing when out questions in app extends its limit.
+
+So for that we have added _questionIndex < question.length ? ................  : Center(child: Text("you did it"),_)
