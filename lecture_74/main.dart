@@ -31,7 +31,7 @@ class MyHomePage extends StatelessWidget {
 
           // insted of doing making a Containor inside a 'Card' we will rap
           // the 'Card' inside a Containor;
-
+          //
           // crossAxisAlignment: CrossAxisAlignment.stretch,
 
           // we could have done this insted of defining 'width: double.infinity'
